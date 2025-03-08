@@ -46,7 +46,7 @@ fn main() -> io::Result<()> {
 
         // for other terminal commands (using nix create)
         match execute_command(input) {
-            Ok(_) => println!("Command executed successfully"),
+            Ok(_) => (),
             Err(e) => eprintln!("Failed to execute command: {}", e),
         }
     }
