@@ -1,6 +1,0 @@
-total 16
--rw-r--r--  1 siri  staff  1198 Mar  8 20:56 Cargo.lock
--rw-r--r--  1 siri  staff   125 Mar  8 20:56 Cargo.toml
--rw-r--r--  1 siri  staff     0 Mar 20 01:09 output.txt
-drwxr-xr-x  4 siri  staff   128 Mar  9 00:29 src
-drwxr-xr-x@ 5 siri  staff   160 Mar  8 20:30 target
